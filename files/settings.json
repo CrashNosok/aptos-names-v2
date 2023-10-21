@@ -1,0 +1,7 @@
+{
+  "check_proxy": true,
+  "sleep_time": {
+    "from": 600,
+    "to": 3600
+  }
+}
